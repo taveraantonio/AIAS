@@ -5,7 +5,7 @@ Segmentation of Agricultural Aerial Images" published at the "3rd International 
 Agriculture-Vision: Challenges and Opportunities for Computer Vision in Agriculture" in conjunction with the "IEEE/CVF 
 Computer Vision and Pattern Recognition Conference (CVPR 2022)".
 
-<\br>
+<br>
 
 In this paper, we investigate the problem of Semantic Segmentation for agricultural aerial imagery. We observe that 
 the existing methods used for this task are designed without considering two characteristics of  the aerial data: (i) 
